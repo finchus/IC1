@@ -1,22 +1,12 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+Internal Controls Overview 
 
-# Custom for Visual Studio
-*.cs     diff=csharp
-*.sln    merge=union
-*.csproj merge=union
-*.vbproj merge=union
-*.fsproj merge=union
-*.dbproj merge=union
+Internal Controls provide the backbone of procedures for the Finance department. They give both the GAAP compliant 
+principals for the orginization as well as the detail insuructions for transaction processing. Here they are
+given in three segments
 
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
+1) Principals
+2) Policies, decisions, routines, standardized exceptions
+3) Desk procedures for transaction processing
+3a) detailed instructions, including screen captures
+
+
